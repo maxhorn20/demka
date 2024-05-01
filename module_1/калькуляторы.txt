@@ -1,0 +1,3 @@
+v4 https://ipcalc.co/
+v6 https://www.coderstool.com/ipv6-subnet-calculator
+risynki https://www.drawio.com/
